@@ -1,4 +1,4 @@
-# Algorithm and Arrays
+ # Algorithm and Arrays
 
 ## Task 1. Fridge Algorithm
 
